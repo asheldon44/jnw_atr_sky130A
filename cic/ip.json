@@ -1,0 +1,13 @@
+{
+	"options" :
+	{
+		"ignoreSetYoffsetHalf" : false,
+		"prefix" : "JNWATR_"
+	},
+	"include" : [
+		"transistors.json",
+		"alltran.json"
+
+	],
+    "cells" : []
+}

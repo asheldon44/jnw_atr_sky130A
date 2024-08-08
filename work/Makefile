@@ -11,7 +11,7 @@
 # -----------------------------------------------------------
 
 
-PREFIX=
+PREFIX=JNWATR_
 LIB=JNW_ATR_SKY130NM
 CELL=JNW_ATR
 

@@ -12,11 +12,11 @@
 
 
 PREFIX=JNWATR_
-LIB=JNW_ATR_SKY130NM
+LIB=JNW_ATR_SKY130A
 CELL=JNW_ATR
 
 #- Which libraries to make SVG files for
-SVGLIBS=JNW_ATR_SKY130NM
+SVGLIBS=JNW_ATR_SKY130A
 
 #- Provide cells you want to check for the lvsall drcall commands
 CELLS = JNW_ATR

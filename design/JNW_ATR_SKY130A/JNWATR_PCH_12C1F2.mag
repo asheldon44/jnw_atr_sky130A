@@ -1,7 +1,7 @@
 magic
-tech sky130B
+tech sky130A
 magscale 1 1
-timestamp 1712527200
+timestamp 1723932000
 << checkpaint >>
 rect 0 0 832 400
 << pdiff >>
@@ -10,7 +10,7 @@ rect 208 140 624 180
 rect 208 180 624 220
 rect 208 220 624 260
 rect 208 260 624 300
-<< ptap >>
+<< ntap >>
 rect -48 -20 48 20
 rect 784 -20 880 20
 rect -48 20 48 60
@@ -131,7 +131,7 @@ rect -48 340 48 380
 rect 784 340 880 380
 rect -48 380 48 420
 rect 784 380 880 420
-<< ptapc >>
+<< ntapc >>
 rect -16 100 16 140
 rect 816 100 848 140
 rect -16 140 16 180
@@ -142,7 +142,7 @@ rect -16 220 16 260
 rect 816 220 848 260
 rect -16 260 16 300
 rect 816 260 848 300
-<< ndcontact >>
+<< pdcontact >>
 rect 224 110 240 120
 rect 224 120 240 130
 rect 240 110 272 120
@@ -304,7 +304,7 @@ rect 208 280 224 284
 rect 208 284 224 288
 rect 208 288 224 292
 rect 208 292 224 296
-<< pwell >>
+<< nwell >>
 rect -92 -64 924 464
 << labels >>
 flabel m1 s 80 180 112 220 0 FreeSans 400 0 0 0 G

@@ -1,7 +1,7 @@
 magic
-tech sky130B
+tech sky130A
 magscale 1 1
-timestamp 1712527200
+timestamp 1723932000
 << checkpaint >>
 rect 0 0 704 400
 << pdiff >>

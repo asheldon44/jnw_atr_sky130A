@@ -1,0 +1,112 @@
+
+*-------------------------------------------------------------
+* JNWATR_PCH_2C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_2C1F2 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.22  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_2C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_2C5F0 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.94  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_4C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_4C1F2 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.22  nf=2  w=1.6  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_4C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_4C5F0 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.94  nf=2  w=1.6  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_8C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_8C1F2 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.22  nf=2  w=2.88  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_8C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_8C5F0 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.94  nf=2  w=2.88  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_12C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_12C1F2 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.22  nf=2  w=4.16  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_PCH_12C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_PCH_12C5F0 D G S B
+M1 D G S B sky130_fd_pr__pfet_01v8  l=0.94  nf=2  w=4.16  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_2C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_2C1F2 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.22  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_2C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_2C5F0 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.94  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_4C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_4C1F2 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.22  nf=2  w=1.6  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_4C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_4C5F0 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.94  nf=2  w=1.6  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_8C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_8C1F2 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.22  nf=2  w=2.88  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_8C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_8C5F0 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.94  nf=2  w=2.88  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_12C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_12C1F2 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.22  nf=2  w=4.16  
+.ENDS
+
+*-------------------------------------------------------------
+* JNWATR_NCH_12C5F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT JNWATR_NCH_12C5F0 D G S B
+M1 D G S B sky130_fd_pr__nfet_01v8  l=0.94  nf=2  w=4.16  
+.ENDS

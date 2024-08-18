@@ -1,2 +1,2 @@
 source ../tech/magic/.magicrc
-addpath ../design/JNW_ATR_SKY130NM
+addpath ../design/JNW_ATR_SKY130A

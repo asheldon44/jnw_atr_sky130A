@@ -1,5 +1,5 @@
 
-# JNW_ATR_SKY130NM
+# JNW_ATR_SKY130A
 
 # Who
 wulff
@@ -12,12 +12,6 @@ wulff
 
 
 # What
-
-| What            | Lib/Folder       | Cell/Name |
-| :-              | :-:              | :-:       |
-| Schematic       | JNW_ATR_SKY130NM | JNW_ATR |
-| Layout          | JNW_ATR_SKY130NM | JNW_ATR |
-| LPE             | JNW_ATR_SKY130NM | JNW_ATR |
 
 
 # Changelog/Plan
@@ -42,17 +36,3 @@ wulff
 | Temperature         | -40     | 27            | 125     | C     |
 
 
-# Status
-
-| Stage                       | TYPE | Status | Comment                        |
-| :---                        | :-:  | :---:  | :--:                           |
-| Specification               | DOC  | :x:    |                                |
-| Schematic                   | VIEW | :x:    |                                |
-| Schematic simulation        | VER  | N/A    |                                |
-| Layout                      | VIEW | :x:    |                                |
-| Layout parasitic extraction | VIEW | :x:    |                                |
-| LPE simulation              | VER  | :x:    |                                |
-| LVS                         | VER  | :x:    |                                |
-| DRC                         | VER  | :x:    |                                |
-| ERC                         | VER  | :x:    |                                |
-| ANT                         | VER  | :x:    |                                |
